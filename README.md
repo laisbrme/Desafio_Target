@@ -6,8 +6,8 @@ Repositório para os teste das Etapas técnicas para o processo seletivo na empr
 
 ### Desenvolvedor Back-End
 
-Respostas referente ao desafio constam na pasta Vaga_Desenvolvedor_Back-End:
+- Respostas referente ao desafio constam na pasta <a href="Vaga_Desenvolvedor_Back-End">Vaga_Desenvolvedor_Back-End</a>
 
-- <a href="Vaga_Desenvolvedor_Back-End\DesafioDesenvolvedorBackEnd.ipynb">Questões respondidas em Jupyter Notebook</a>
+### Estágio em Desenvolvimento - Ribeirão Preto
 
-- <a href="Vaga_Desenvolvedor_Back-End\DiagramaClasses.png">Diagrama de Classes</a>
+- Respostas referente ao desafio constam na pasta <a href="Vaga_Estagio_em_Desenvolvimento-Ribeirao_Preto">Vaga_Estagio_em_Desenvolvimento-Ribeirao_Preto/</a>
